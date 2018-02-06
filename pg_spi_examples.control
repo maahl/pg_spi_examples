@@ -1,0 +1,4 @@
+comment = 'Examples of SPI usage'
+default_version = '0.1'
+relocatable = false
+schema = pgspiexamples
